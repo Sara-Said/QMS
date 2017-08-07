@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/QuizMS/resources/views/home.blade.php</file>
+            <file>file:/C:/xampp/htdocs/QuizMS/app/Quize.php</file>
+            <file>file:/C:/xampp/htdocs/QuizMS/app/User.php</file>
+            <file>file:/C:/xampp/htdocs/QuizMS/app/Http/Controllers/AdminController.php</file>
+            <file>file:/C:/xampp/htdocs/QuizMS/resources/views/welcome.blade.php</file>
+            <file>file:/C:/xampp/htdocs/QuizMS/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/QuizMS/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/QuizMS/resources/views/auth/login.blade.php</file>
+            <file>file:/C:/xampp/htdocs/QuizMS/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/QuizMS/resources/views/Quiz.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
